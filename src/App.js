@@ -6,8 +6,8 @@ import RandomHearts from "./components/RandomHearts";
 const App = () => {
   return (
     <div>
-      <Heart top={200} left={800} />
-      <NewHearts />
+      {/* <Heart top={200} left={800} /> */}
+      {/* <NewHearts /> */}
       <RandomHearts />
     </div>
   );
