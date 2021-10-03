@@ -1,5 +1,5 @@
 # Quick React Hearts
-https://img.shields.io/badge/<Made With>-<React>-<red>
+![react_icon](https://img.shields.io/badge/Made%20With-React-red)
 
 This project was done as a simple react app to practice making reusable components. This challenge is in response to my code inscructor's video: [quick react hearts](https://www.youtube.com/watch?v=PuyoQHk8Tn8).
 
